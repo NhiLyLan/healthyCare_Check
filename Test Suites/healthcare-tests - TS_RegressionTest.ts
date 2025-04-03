@@ -39,6 +39,6 @@
       <guid>955abe25-4029-43e2-b02f-57315c1ade49</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Main Test Cases/TC3_Visual Testing Example</testCaseId>
+      <testCaseId>Test Cases/Main Test Cases/TC3_Visual Testing Example Rename</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
