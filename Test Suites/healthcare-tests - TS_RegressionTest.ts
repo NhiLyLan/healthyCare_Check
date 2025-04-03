@@ -15,8 +15,7 @@
       <guid>12b1ed24-3d2b-4bed-87e1-7c72470cdce7</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Main Test Cases/TC1_Verify Successful Login Rename</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <testCaseId>Test Cases/Main Test Cases Rename/TC1_Verify Successful Login</testCaseId>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
@@ -34,14 +33,12 @@
       <guid>e4bf2157-13c0-4c5f-875c-fa60a7e7a2fa</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Main Test Cases/TC2_Verify Successful Appointment</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <testCaseId>Test Cases/Main Test Cases Rename/TC2_Verify Successful Appointment</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>955abe25-4029-43e2-b02f-57315c1ade49</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Main Test Cases/TC3_Visual Testing Example</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <testCaseId>Test Cases/Main Test Cases Rename/TC3_Visual Testing Example Rename</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
