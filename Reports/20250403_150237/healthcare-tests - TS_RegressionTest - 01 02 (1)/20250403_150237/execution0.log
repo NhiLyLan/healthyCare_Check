@@ -2642,4 +2642,278 @@ Expected result:
   <nestedLevel>0</nestedLevel>
   <escapedJava>false</escapedJava>
 </record>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<record>
+  <date>2025-04-03T08:29:42.418148Z</date>
+  <millis>1743668982418</millis>
+  <nanos>148000</nanos>
+  <sequence>655</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding test data with id &amp;apos;Data Files/Platform/Executions/AC-ST057543&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-04-03T08:29:42.429740Z</date>
+  <millis>1743668982429</millis>
+  <nanos>740000</nanos>
+  <sequence>656</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test data is excel file, reading excel file</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-04-03T08:29:42.429977Z</date>
+  <millis>1743668982429</millis>
+  <nanos>977000</nanos>
+  <sequence>657</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Reading excel file with source file &amp;apos;/Users/nhi.ly/Downloads/project-katalon/katalon-gen3-qengineer-automation/Data Files/Platform/Executions/Core Data Binding.xlsx&amp;apos; and sheet name &amp;apos;AC-ST057543&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-04-03T08:35:33.214553Z</date>
+  <millis>1743669333214</millis>
+  <nanos>553000</nanos>
+  <sequence>770</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding test data with id &amp;apos;Data Files/Platform/Executions/AC-ST057543&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-04-03T08:35:33.216929Z</date>
+  <millis>1743669333216</millis>
+  <nanos>929000</nanos>
+  <sequence>771</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test data is excel file, reading excel file</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-04-03T08:35:33.217062Z</date>
+  <millis>1743669333217</millis>
+  <nanos>62000</nanos>
+  <sequence>772</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Reading excel file with source file &amp;apos;/Users/nhi.ly/Downloads/project-katalon/katalon-gen3-qengineer-automation/Data Files/Platform/Executions/Core Data Binding.xlsx&amp;apos; and sheet name &amp;apos;AC-ST057543&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-04-03T08:43:46.507985Z</date>
+  <millis>1743669826507</millis>
+  <nanos>985000</nanos>
+  <sequence>875</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding test data with id &amp;apos;Data Files/Platform/Executions/AC-ST057543&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-04-03T08:43:46.512218Z</date>
+  <millis>1743669826512</millis>
+  <nanos>218000</nanos>
+  <sequence>876</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test data is excel file, reading excel file</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-04-03T08:43:46.512469Z</date>
+  <millis>1743669826512</millis>
+  <nanos>469000</nanos>
+  <sequence>877</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Reading excel file with source file &amp;apos;/Users/nhi.ly/Downloads/project-katalon/katalon-gen3-qengineer-automation/Data Files/Platform/Executions/Core Data Binding.xlsx&amp;apos; and sheet name &amp;apos;AC-ST057543&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-04-03T08:45:33.124886Z</date>
+  <millis>1743669933124</millis>
+  <nanos>886000</nanos>
+  <sequence>1020</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding test data with id &amp;apos;Data Files/Platform/Executions/AC-ST057543&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-04-03T08:45:33.126824Z</date>
+  <millis>1743669933126</millis>
+  <nanos>824000</nanos>
+  <sequence>1021</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test data is excel file, reading excel file</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-04-03T08:45:33.126939Z</date>
+  <millis>1743669933126</millis>
+  <nanos>939000</nanos>
+  <sequence>1022</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Reading excel file with source file &amp;apos;/Users/nhi.ly/Downloads/project-katalon/katalon-gen3-qengineer-automation/Data Files/Platform/Executions/Core Data Binding.xlsx&amp;apos; and sheet name &amp;apos;AC-ST057543&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-04-03T08:53:48.612961Z</date>
+  <millis>1743670428612</millis>
+  <nanos>961000</nanos>
+  <sequence>1131</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding test data with id &amp;apos;Data Files/Platform/Executions/AC-ST057543&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-04-03T08:53:48.616794Z</date>
+  <millis>1743670428616</millis>
+  <nanos>794000</nanos>
+  <sequence>1132</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test data is excel file, reading excel file</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-04-03T08:53:48.617014Z</date>
+  <millis>1743670428617</millis>
+  <nanos>14000</nanos>
+  <sequence>1133</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Reading excel file with source file &amp;apos;/Users/nhi.ly/Downloads/project-katalon/katalon-gen3-qengineer-automation/Data Files/Platform/Executions/Core Data Binding.xlsx&amp;apos; and sheet name &amp;apos;AC-ST057543&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-04-03T08:54:01.591970Z</date>
+  <millis>1743670441591</millis>
+  <nanos>970000</nanos>
+  <sequence>1199</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding test data with id &amp;apos;Data Files/Platform/Executions/AC-ST057543&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-04-03T08:54:01.593353Z</date>
+  <millis>1743670441593</millis>
+  <nanos>353000</nanos>
+  <sequence>1200</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test data is excel file, reading excel file</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-04-03T08:54:01.593473Z</date>
+  <millis>1743670441593</millis>
+  <nanos>473000</nanos>
+  <sequence>1201</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Reading excel file with source file &amp;apos;/Users/nhi.ly/Downloads/project-katalon/katalon-gen3-qengineer-automation/Data Files/Platform/Executions/Core Data Binding.xlsx&amp;apos; and sheet name &amp;apos;AC-ST057543&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-04-03T08:58:05.903492Z</date>
+  <millis>1743670685903</millis>
+  <nanos>492000</nanos>
+  <sequence>1391</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Finding test data with id &amp;apos;Data Files/Platform/Executions/AC-ST057543&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-04-03T08:58:05.905242Z</date>
+  <millis>1743670685905</millis>
+  <nanos>242000</nanos>
+  <sequence>1392</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Test data is excel file, reading excel file</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-04-03T08:58:05.905372Z</date>
+  <millis>1743670685905</millis>
+  <nanos>372000</nanos>
+  <sequence>1393</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>1</thread>
+  <message>Reading excel file with source file &amp;apos;/Users/nhi.ly/Downloads/project-katalon/katalon-gen3-qengineer-automation/Data Files/Platform/Executions/Core Data Binding.xlsx&amp;apos; and sheet name &amp;apos;AC-ST057543&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
 </log>

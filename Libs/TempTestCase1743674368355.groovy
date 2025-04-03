@@ -18,9 +18,9 @@ DriverCleanerCollector.getInstance().addDriverCleaner(new com.kms.katalon.core.w
 DriverCleanerCollector.getInstance().addDriverCleaner(new com.kms.katalon.core.testng.keyword.internal.TestNGDriverCleaner())
 
 
-RunConfiguration.setExecutionSettingFile('/var/folders/v5/m_lltmb50lv_4vk4dq9ptbl80000gp/T/Katalon/Test Cases/Main Test Cases Rename/TC2_Verify Successful Appointment/20250403_144129/execution.properties')
+RunConfiguration.setExecutionSettingFile('/var/folders/v5/m_lltmb50lv_4vk4dq9ptbl80000gp/T/Katalon/20250403_165928/execution.properties')
 
 TestCaseMain.beforeStart()
 
-        TestCaseMain.runTestCase('Test Cases/Main Test Cases Rename/TC2_Verify Successful Appointment', new TestCaseBinding('Test Cases/Main Test Cases Rename/TC2_Verify Successful Appointment',[:]), FailureHandling.STOP_ON_FAILURE , false)
+        TestCaseMain.runTestCase('', new TestCaseBinding('',[:]), FailureHandling.STOP_ON_FAILURE , false)
     

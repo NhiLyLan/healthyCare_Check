@@ -1,0 +1,8 @@
+1
+00:00:00,046 --> 00:00:00,071
+1. comment("Story: Login to CURA system")
+
+2
+00:00:00,076 --> 00:00:00,080
+5. comment("Given that the user has the valid login information")
+

@@ -28,8 +28,8 @@ DriverCleanerCollector.getInstance().addDriverCleaner(new com.kms.katalon.core.t
 
 
 
-RunConfiguration.setExecutionSettingFile("/Users/nhi.ly/Downloads/project-katalon/healthyCare_Check/Reports/20250403_150237/healthcare-tests - TS_RegressionTest - 01 02 (1)/20250403_150237/execution.properties")
+RunConfiguration.setExecutionSettingFile("/Users/nhi.ly/Downloads/project-katalon/healthyCare_Check/Reports/20250403_165928/healthcare-tests - TS_RegressionTest - 01 02 (1)/20250403_165929/execution.properties")
 
 TestCaseMain.beforeStart()
 
-TestCaseMain.startTestSuite('Test Suites/healthcare-tests - TS_RegressionTest - 01 02 (1)', suiteProperties, new File("/Users/nhi.ly/Downloads/project-katalon/healthyCare_Check/Reports/20250403_150237/healthcare-tests - TS_RegressionTest - 01 02 (1)/20250403_150237/testCaseBinding"))
+TestCaseMain.startTestSuite('Test Suites/healthcare-tests - TS_RegressionTest - 01 02 (1)', suiteProperties, new File("/Users/nhi.ly/Downloads/project-katalon/healthyCare_Check/Reports/20250403_165928/healthcare-tests - TS_RegressionTest - 01 02 (1)/20250403_165929/testCaseBinding"))
