@@ -15,7 +15,7 @@
       <guid>12b1ed24-3d2b-4bed-87e1-7c72470cdce7</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Main Test Cases Rename Azure/TC1_Verify Successful Login Azure</testCaseId>
+      <testCaseId>Test Cases/Common Test Cases/Main Test Cases Rename Azure/TC1_Verify Successful Login Azure</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -34,7 +34,7 @@
       <guid>955abe25-4029-43e2-b02f-57315c1ade49</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Main Test Cases Rename Azure/TC3_Visual Testing Example Azure</testCaseId>
+      <testCaseId>Test Cases/Common Test Cases/Main Test Cases Rename Azure/TC3_Visual Testing Example Azure</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
