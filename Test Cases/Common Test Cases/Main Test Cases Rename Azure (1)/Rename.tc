@@ -1,20 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>Verify if users can book an appointment sucessfully.
-Pre-condition: Users have already logged in
-fgweuydfgwgfuywe
-Steps:
-- Fill in appoinment's information
-- Click on appointment's button
+   <description>Verify if users can login successful. 
 
-Expected results:
-Appointment Confirmation page is displayed</description>
+Steps:
+- Click on 'Book Appointment' button to login
+- Input username and password
+- Click on 'Login' button
+
+Expected result:
+'Appointment' section is displayed after successful login</description>
    <name>Rename</name>
    <tag></tag>
-   <comment>Story: Book an appointment
-Given that the user has logged into their account
-And Appointment page is displayed
-When he fills in valid information in Appointment page
-Then he should be able to book a new appointment</comment>
-   <testCaseGuid>147532f2-113a-11f0-be42-e7608fac133f</testCaseGuid>
+   <comment>Story: Login to CURA system
+Given that the user has valid login information
+When he logins to CURA system
+Then he should be able to login successfully</comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4c367098-113a-11f0-9e83-e0c24873a28c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4c367142-113a-11f0-9e83-e0c24873a28c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4c367174-113a-11f0-9e83-e0c24873a28c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'John Doe'</defaultValue>
+      <description></description>
+      <id>4c367142-113a-11f0-9e83-e0c24873a28c</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>'ThisIsNotAPassword'</defaultValue>
+      <description></description>
+      <id>4c367174-113a-11f0-9e83-e0c24873a28c</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
 </TestCaseEntity>
