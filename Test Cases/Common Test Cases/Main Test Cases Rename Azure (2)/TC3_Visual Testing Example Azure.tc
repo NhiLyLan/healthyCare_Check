@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC3_Visual Testing Example Azure</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>4c3e22e8-113a-11f0-9e83-e0c24873a28c</testCaseGuid>
-</TestCaseEntity>
