@@ -9,7 +9,7 @@ Steps:
 
 Expected results:
 Appointment Confirmation page is displayed</description>
-   <name>tredgh</name>
+   <name>rename test case</name>
    <tag></tag>
    <comment>Story: Book an appointment
 Given that the user has logged into their account
